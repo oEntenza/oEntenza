@@ -1,3 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32a83a&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32a83a&size=35&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Victor+Entenza;Tenho+21+anos;Sou+de+São+Paulo%2C+Brasil;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+vindo!+%3A%29)](https://git.io/typing-svg)
+
+
 ## João Victor Entenza Santos
 
 Olá, sou um estudante de ADS 
@@ -17,3 +22,5 @@ Este é o meu repositório pessoal, onde compartilho projetos desenvolvidos em d
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oEntenza&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oEntenza&layout=compact&theme=transparent)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32a83e&height=120&section=footer"/>
