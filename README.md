@@ -15,5 +15,5 @@ Este é o meu repositório pessoal, onde compartilho projetos desenvolvidos em d
 
 ## Status GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oEntenza&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oEntenza&layout=donut-vertical&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oEntenza&show_icons=true&theme=transparent)
