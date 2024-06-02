@@ -3,9 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32a83a&size=35&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Victor+Entenza;Tenho+21+anos;Sou+de+São+Paulo%2C+Brasil;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+vindo!+%3A%29)](https://git.io/typing-svg)
 
 <div align="center">
-<center>Este é o meu repositório pessoal, onde compartilho projetos desenvolvidos em diversas linguagens de programação.</center>
+<center>Este é o meu repositório pessoal, onde compartilho projetos desenvolvidos em diversas linguagens de programação.<br></center>
+<br>
+<center>🗺️Santos, SP/Brasil<br></center>
+<center>🗣️ PT Nativo | EN Fluente<br></center>
+<center>💻 Estudando Análise e Desenvolvimento de Sistemas<br></center>
+<center>📚 Faculdade de Tecnologia do Estado de São Paulo - Campus Rubens Lara<br></center>
 
-## Linguagens que possuo conhecimento: 
+
+## Linguagens que possuo conhecimento:  
 
 [![C Badge](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=white)](https://www.cprogramming.com/)
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
